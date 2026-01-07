@@ -35,7 +35,7 @@ permissions:
 
 jobs:
   job1:
-    name: Terraform
+    name: PostgreSQL
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
